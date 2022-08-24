@@ -5,6 +5,7 @@
 <img width="579" alt="image" src="https://user-images.githubusercontent.com/76246702/186506318-3dd9198a-3a27-4650-8f0d-06a440ef84ce.png">
 
 **Introduction:**
+
 Running this Script would open up a wikipedia summary generator GUI
 which can be used to get summary about any topic of the user's choice from
 wikipedia.1
